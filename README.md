@@ -39,7 +39,7 @@ Moodie focuses on **simple mood journaling** with **beautiful, emoji-driven desi
 
 - **Daily Mood Journal**  
   Capture your thoughts and feelings through structured journaling. Whether it’s a quick note or a detailed reflection, Moodie helps you track emotional trends and improve mental clarity over time.
-  
+
 ---
 
 
@@ -72,6 +72,12 @@ Moodie is fully responsive and built for a great experience across:
 - 🖥️ Desktops  
 
 > It’s perfect for quick entries whether you're on-the-go or reflecting at night.
+
+---
+
+## 📽️ Demo
+
+> Watch demo video: [Galaxify AI Demo](https://youtu.be/5NshaD7kOQs)
 
 ---
 
