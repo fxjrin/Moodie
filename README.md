@@ -77,7 +77,7 @@ Moodie is fully responsive and built for a great experience across:
 
 ## 📽️ Demo
 
-> Watch demo video: [Galaxify AI Demo](https://youtu.be/5NshaD7kOQs)
+> Watch demo video: [Moodie Demo](https://youtu.be/5NshaD7kOQs)
 
 ---
 
